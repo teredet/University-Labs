@@ -11,7 +11,8 @@ Algorithms
 └───OOP
     ├───Lab1 (The structure of the Java program. Variables. Classes. Static and dynamic elements of the class. Access modifiers. )
     ├───Lab2 (Basic principles of object-oriented programming.)
-    └───Lab3 (Working with the graphical user interface. Event handling.)
+    ├───Lab3 (Working with the graphical user interface. Event handling.)
+    └───Lab5 (Working with the Scrollbar component.)
 
 
 ```

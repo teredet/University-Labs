@@ -9,7 +9,8 @@ Algorithms
 │   └───lab2.py
 │
 └───OOP
-    └───Lab1 (The structure of the Java program. Variables. Classes. Static and dynamic elements of the class. Access modifiers. )
+    ├───Lab1 (The structure of the Java program. Variables. Classes. Static and dynamic elements of the class. Access modifiers. )
+    └───Lab2 (Basic principles of object-oriented programming.)
 
 
 ```

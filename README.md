@@ -5,8 +5,9 @@ In this repository I will post labs on a variety of subjects that I do for the u
 Algorithms
 │
 ├───System modeling
-│   ├───lab1.py
-│   └───lab2.py
+│   ├───lab1.py (This program implements a triangular processor module.)
+│   ├───lab2.py (This program implements a pyramid processor module.)
+│   └───lab3.py (Determines the rank of the operation)
 │
 └───OOP
     ├───Lab1 (The structure of the Java program. Variables. Classes. Static and dynamic elements of the class. Access modifiers. )

@@ -8,7 +8,8 @@ Algorithms
 │   ├───lab1.py (This program implements a triangular processor module.)
 │   ├───lab2.py (This program implements a pyramid processor module.)
 │   ├───lab3.py (Determines the rank of the operation)
-│   └───lab4.py (Converting a number from the decimal number system to binary, octal, hexadecimal systems and RL code.)
+│   ├───lab4.py (Converting a number from the decimal number system to binary, octal, hexadecimal systems and RL code.)
+│   └───lab5.py (The program combines, compares, sorts and conducts similarity in the RL code)
 │
 └───OOP
     ├───Lab1 (The structure of the Java program. Variables. Classes. Static and dynamic elements of the class. Access modifiers. )

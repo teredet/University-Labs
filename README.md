@@ -16,7 +16,8 @@ Algorithms
     ├───Lab2 (Basic principles of object-oriented programming.)
     ├───Lab3 (Working with the graphical user interface. Event handling.)
     ├───Lab5 (Working with the Scrollbar component.)
-    └───Lab6 (Creates a window in which to draw a picture. We indicate the path to it on line 10.)
+    ├───Lab6 (Creates a window in which to draw a picture. We indicate the path to it on line 10.)
+    └───Lab7 (Working with threads in Java)
 
 
 ```

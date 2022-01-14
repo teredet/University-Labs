@@ -9,7 +9,8 @@ Labs
 │   ├───lab2 (This program implements a pyramid processor module.)
 │   ├───lab3 (Determines the rank of the operation)
 │   ├───lab4 (Converting a number from the decimal number system to binary, octal, hexadecimal systems and RL code.)
-│   └───lab5 (The program combines, compares, sorts and conducts similarity in the RL code)
+│   ├───lab5 (The program combines, compares, sorts and conducts similarity in the RL code)
+│   └───lab6 (The program adds and subtracts in the RL code)
 │
 └───OOP (Java)
     ├───Lab1 (The structure of the Java program. Variables. Classes. Static and dynamic elements of the class. Access modifiers. )
